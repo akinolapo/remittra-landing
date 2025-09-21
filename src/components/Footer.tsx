@@ -1,4 +1,5 @@
 import React from 'react'
+import { Linkedin, Twitter, Instagram } from 'lucide-react'
 
 const Footer: React.FC = () => {
   return (
@@ -44,21 +45,21 @@ const Footer: React.FC = () => {
               className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-cyan-600 transition-colors duration-300"
               aria-label="Follow us on LinkedIn"
             >
-              <span className="text-sm font-bold">in</span>
+              <Linkedin className="w-5 h-5" />
             </a>
             <a 
               href="#" 
               className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-cyan-600 transition-colors duration-300"
               aria-label="Follow us on Twitter"
             >
-              <span className="text-sm font-bold">tw</span>
+              <Twitter className="w-5 h-5" />
             </a>
             <a 
               href="#" 
               className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-cyan-600 transition-colors duration-300"
               aria-label="Follow us on Instagram"
             >
-              <span className="text-sm font-bold">ig</span>
+              <Instagram className="w-5 h-5" />
             </a>
           </div>
         </div>
