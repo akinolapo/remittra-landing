@@ -3,7 +3,7 @@
 A modern, responsive landing page for Remittra fintech application built with Next.js, TypeScript, and TailwindCSS.
 
 ## Live Demo
-[Insert your deployed link here - Vercel/Netlify]
+[https://remittra-landing.vercel.app]
 
 ## Features Implemented
 
@@ -39,7 +39,7 @@ A modern, responsive landing page for Remittra fintech application built with Ne
 
 ## Tech Stack
 
-- **Framework**: Next.js 14 (App Router)
+- **Framework**: Next.js (App Router)
 - **Language**: TypeScript
 - **Styling**: TailwindCSS
 - **Icons**: Lucide React
@@ -49,7 +49,7 @@ A modern, responsive landing page for Remittra fintech application built with Ne
 
 1. **Clone the repository**
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/akinolapo/remittra-landing.git]
 cd remittra-landing
 ```
 
